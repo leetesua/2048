@@ -1,0 +1,9 @@
+.metadata
+bin
+gen
+obj
+RemoteSystemsTempFiles
+.idea
+.gradle
+build
+*.iml
